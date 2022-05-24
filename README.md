@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/joaoantoniosilvaa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:joaopsilva.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I live in Juazeiro, a small town in Bahia, Brazil. I'm currently student at Trybe, in the Development Software. I’m currently learning Back-End with SQL, NodeJs, Mongo.
+I live in Juazeiro, a small town in Bahia, Brazil. I'm currently student at Trybe, in the Development Software. I’m currently learning Back-End with SQL, NodeJs, TypeScript MongoDB.
 
 ### Programming languages:
 
