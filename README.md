@@ -1,5 +1,4 @@
-## Hi there, I'm Joao Antonio 👋
-<!-- (https://joaopsilvaa.github.io/portfolio)  -->
+## Hi there, I'm [Joao Antonio](https://joaopsilvaa.github.io/portfolio) 👋
 
 <!--
 **JoaopSilvaa/JoaopSilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
