@@ -32,9 +32,12 @@ src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
 </div>
 
 ### GitHub Stats:
-
 <div align="center">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaopSilvaa&layout=compact&langs_count=7&theme=algolia"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopSilvaa&layout=compact&langs_count=7&theme=algolia&layout=compact&langs_count=7"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500em" src="https://github-readme-stats.vercel.app/api?username=JoaopSilvaa&count_private=true&show_icons=true&theme=algolia" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopSilvaa&layout=compact&theme=algolia&langs_count=10&hide=shell,less,dockerfile,jinja" />
+  </a> 
 </div>
 
