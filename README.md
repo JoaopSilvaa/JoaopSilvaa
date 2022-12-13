@@ -34,7 +34,7 @@ src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
 ### GitHub Stats:
 
 <div align="center">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaopSilvaa&layout=compact&langs_count=7&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaopSilvaa&layout=compact&langs_count=7&theme=algolia"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopSilvaa&layout=compact&langs_count=7&theme=algolia&layout=compact&langs_count=7"/>
 </div>
 
