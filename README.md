@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-Moro em Petrolina, uma pequena cidade de Pernambuco, no Brasil. Sou um desenvolvedor FullStack formado pela Trybe. Eu agora estou estudando Ciência de Dados com Python e me especializando em Automação de Testes com Java.
+Moro em Petrolina, uma pequena cidade de Pernambuco, no Brasil. Sou um desenvolvedor FullStack formado pela Trybe e agora estou estudando Automação de Testes com Java.
 
 <a href="https://www.linkedin.com/in/joaoantoniosilvaa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:joaopsilva.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
